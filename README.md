@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1>🚀 Automated Rollback Mechanism for Failed Deployments</h1>
-
+<img src="banner.png" alt="Self-Healing DevOps Pipeline with Automated Rollback" width="100%"> 
+<br><br>
 <h3>DevOps Pipeline using GitHub Actions & Docker</h3>
 
 <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue?style=for-the-badge&logo=githubactions">
